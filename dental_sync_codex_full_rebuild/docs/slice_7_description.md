@@ -1,0 +1,1 @@
+# Slice 7 – Placeholder text for slice 7.

@@ -1,0 +1,3 @@
+# QUERY_LOG.md
+
+**Date:** ...

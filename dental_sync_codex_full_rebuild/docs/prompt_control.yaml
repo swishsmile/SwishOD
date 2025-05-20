@@ -1,0 +1,15 @@
+slices:
+  slice_1_project_setup:
+    status: complete
+  slice_2_authentication:
+    status: in_progress
+  slice_3_patient_list:
+    status: pending
+  slice_4_add_patient:
+    status: pending
+  slice_5_audit_and_tagging:
+    status: pending
+  slice_6_appointment_scheduler:
+    status: pending
+  slice_7_rcm_query_engine:
+    status: pending

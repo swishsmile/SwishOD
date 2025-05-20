@@ -1,0 +1,3 @@
+# ERROR_LOG.md
+
+### [2025-05-20] Sample error...
